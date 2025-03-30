@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
+
+## 💡 Data Analyst | Python | SQL | Power BI 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
