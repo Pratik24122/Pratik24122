@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pratik Patil</h1>
 
 ## 💡 Data Analyst | Python | SQL | Power BI 
+🔍 Passionate about transforming raw data into meaningful insights to drive business decisions. Experienced in statistical analysis, data visualization, and predictive modeling.  
+
+📊 Skilled in SQL, Python (Pandas, NumPy, Matplotlib), Power BI, and data-driven problem-solving.  
 <h3 align="left">Connect with me:</h3>
+📧 Email: [pratikpatil2003.12.24@gmail.com](mailto:pratikpatil2003.12.24@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/pratik-patil-015b39254](https://www.linkedin.com/in/pratik-patil-015b39254)  
 <p align="left">
 </p>
 
