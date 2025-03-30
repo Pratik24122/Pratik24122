@@ -8,7 +8,6 @@
 📧 Email: <a href="mailto:pratikpatil2003.12.24@gmail.com">pratikpatil2003.12.24@gmail.com</a>  
 
 🔗 LinkedIn: [linkedin.com/in/pratik-patil-015b39254](https://www.linkedin.com/in/pratik-patil-015b39254)
-
 📄 [View My Resume](https://github.com/Pratik24122/Pratik24122/blob/main/resume.pdf)
 
 <p align="left">
